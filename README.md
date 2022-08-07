@@ -6,7 +6,7 @@
 #2. Link to multiple programming resources
 [link](https://drive.google.com/drive/u/0/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ)
 
-#3. Good tutorial on data strutures and algorythms
+#3. Good tutorial on data strutures and algorithms
 [link](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
 
 #4. List of problem types for imporveing leetcode performance
@@ -14,3 +14,6 @@
 
 #5. Grind 75 best method to follow for leetcode problems
 [link](https://www.techinterviewhandbook.org/grind75)
+
+#6. Interview prep plus notes on algorithms
+[Link](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
